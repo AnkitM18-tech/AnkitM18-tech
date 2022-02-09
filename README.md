@@ -21,7 +21,7 @@
 # 📊GitHub Analytics :
 ![](https://github-readme-stats.vercel.app/api?username=AnkitM18-tech&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitM18-tech&theme=radical&hide_border=false)<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitM18-tech&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitM18-tech&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Dev Quote
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
