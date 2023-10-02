@@ -34,7 +34,7 @@
 
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnkitM18-tech&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+<!--[![ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnkitM18-tech&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)-->
 
 ### ✍️Dev Quote
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
