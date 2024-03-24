@@ -6,7 +6,6 @@
 ⚡I love building projects related to Web Development and Machine Learning.<br>
 🌱I'm on track for learning more about Artificial Intelligence, JavaScript and also working on my UI/UX Skills.<br>
 🧭I can help you with Python, Java, C++, Computer Vision, Database and Front-End stuff.<br>
-💭It would be great if I can get some help in CP.<br>
 🎮Please feel free to clone projects and play around with it, raise issues and submit PRs if you think something could be better.<br>
 🤝I would love to collaborate and work on interesting projects.<br>
 📧You can shoot me an email at <ankitmohanty1804@gmail.com>. I'll try to respond as soon as I can.<br>
