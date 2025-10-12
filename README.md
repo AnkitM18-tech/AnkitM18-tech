@@ -1,10 +1,18 @@
 ###
 
-<h1 align="center">Hey, I am Ankit 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
 
-<p align="center">I'm Ankit from India. <br><br>- 🔭 I’m working as a Full Stack Developer. <br>- 📚 I'm currently learning about LLMs, AI and <br>- ⚡ In my free time I learn and build applications. </p>
+<div align="center">
+  <h3>I'm Ankit from India 🇮🇳. </h3><br>
+  <div align="">
+    <p> 𖤇 Electronics and Telecom undergrad, who loves Computer Science and tech. </p>
+    <p> 🔭 I’m working as a Full Stack Developer. I get things done. </p>
+    <p> 📚 I'm currently learning about LLMs, AI, and Web and Mobile Development. </p>
+    <p> ⚡ In my free time, I learn and build applications.
+  </div>
+</div>
 
 ###
 
