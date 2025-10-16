@@ -60,7 +60,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnkitM18-tech/AnkitM18-tech/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/AnkitM18-tech/AnkitM18-tech/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
