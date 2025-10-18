@@ -10,7 +10,7 @@
     <p> 𖤇 Electronics and Telecom undergrad, who loves Computer Science and tech. </p>
     <p> 🔭 I’m working as a Full Stack Developer. I get things done. </p>
     <p> 📚 I'm currently learning about LLMs, AI, and Web and Mobile Development. </p>
-    <p> ⚡ In my free time, I learn and build applications.
+    <p> ⚡ In my free time, I discover new technologies and build applications.
   </div>
 </div>
 
@@ -60,9 +60,9 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/AnkitM18-tech/AnkitM18-tech/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/AnkitM18-tech/AnkitM18-tech/output/snake.svg" alt="Snake animation" /> 
 
-###
+### -->
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkitM18-tech.AnkitM18-tech&"  />
